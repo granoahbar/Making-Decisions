@@ -175,6 +175,9 @@ let z = 5;
 
 while (z > 0)
 {
-  console.log (z)
+  for (let i =z; i > 0; i--)
+  {
+  console.log (i)
+}
   z--
 }
